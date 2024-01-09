@@ -12,5 +12,5 @@ A tool to help generate multiple images with different patterns and colors quick
 
 ## Authors
 
-- [@Aaditya Gupta](https://github.com/procoderjake)
+- [@Aaditya Gupta](https://github.com/Aadipersonal24)
 
